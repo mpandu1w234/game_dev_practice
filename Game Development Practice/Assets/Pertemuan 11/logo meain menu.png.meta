@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 6916f2d2fc84deb479afdd72ad7337df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7797758495224881422
+    second: logo meain menu_0
+  - first:
+      213: 460199035590963125
+    second: logo meain menu_1
+  - first:
+      213: 618128644199663383
+    second: logo meain menu_2
+  - first:
+      213: 3204875566729928804
+    second: logo meain menu_3
+  - first:
+      213: 8582702002291042392
+    second: logo meain menu_4
+  - first:
+      213: 4321059435000496319
+    second: logo meain menu_5
+  - first:
+      213: 7458134520942394729
+    second: logo meain menu_6
+  - first:
+      213: 6726012296302885943
+    second: logo meain menu_7
+  - first:
+      213: -1309625347364861592
+    second: logo meain menu_8
+  - first:
+      213: 7228188116493852823
+    second: logo meain menu_9
+  - first:
+      213: -7830826127446314915
+    second: logo meain menu_10
+  - first:
+      213: 97014149303736297
+    second: logo meain menu_11
+  - first:
+      213: -5596500610515503841
+    second: logo meain menu_12
+  - first:
+      213: -5228863114259586572
+    second: logo meain menu_13
+  - first:
+      213: 3994134489720356102
+    second: logo meain menu_14
+  - first:
+      213: 1415201556915473857
+    second: logo meain menu_15
+  - first:
+      213: 4134547532470864303
+    second: logo meain menu_16
+  - first:
+      213: 571596278047986659
+    second: logo meain menu_17
+  - first:
+      213: -3404481229394353246
+    second: logo meain menu_18
+  - first:
+      213: -8275045428517718407
+    second: logo meain menu_19
+  - first:
+      213: 1967879572883516883
+    second: logo meain menu_20
+  - first:
+      213: 41151462010322825
+    second: logo meain menu_21
+  - first:
+      213: -6430956027176165699
+    second: logo meain menu_22
+  - first:
+      213: -2649860502739932355
+    second: logo meain menu_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: logo meain menu_0
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 377
+        width: 1102
+        height: 2016
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01e9208904373c60800000000000000
+      internalID: 7797758495224881422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo meain menu_1
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1984
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf606aa594f26600800000000000000
+      internalID: 460199035590963125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo meain menu_2
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1912
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717c3071ab8049800800000000000000
+      internalID: 618128644199663383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo meain menu_3
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1886
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460244809510a7c20800000000000000
+      internalID: 3204875566729928804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo meain menu_4
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 1127
+        width: 340
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858679b7ff1eb1770800000000000000
+      internalID: 8582702002291042392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo meain menu_5
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 1133
+        width: 201
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb00e8489ac77fb30800000000000000
+      internalID: 4321059435000496319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo meain menu_6
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1538
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d79d7f4dd908760800000000000000
+      internalID: 7458134520942394729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo meain menu_7
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 1120
+        width: 1254
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73cfa0c2c88975d50800000000000000
+      internalID: 6726012296302885943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo meain menu_8
+      rect:
+        serializedVersion: 2
+        x: 3026
+        y: 1127
+        width: 255
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869487d6fa643dde0800000000000000
+      internalID: -1309625347364861592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo meain menu_9
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 1127
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790e05d9bceaf4460800000000000000
+      internalID: 7228188116493852823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo meain menu_10
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 1128
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50f6b76021535390800000000000000
+      internalID: -7830826127446314915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo meain menu_11
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 1127
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e79f63dad9a85100800000000000000
+      internalID: 97014149303736297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo meain menu_12
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 369
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1577f4a85c3552b0800000000000000
+      internalID: -5596500610515503841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo meain menu_13
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 360
+        width: 387
+        height: 643
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f12a6783b85f67b0800000000000000
+      internalID: -5228863114259586572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo meain menu_14
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 357
+        width: 404
+        height: 662
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60dfae418240e6730800000000000000
+      internalID: 3994134489720356102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo meain menu_15
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 359
+        width: 551
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cdc685615ec3a310800000000000000
+      internalID: 1415201556915473857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo meain menu_16
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 357
+        width: 364
+        height: 662
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9c4e3331dd06930800000000000000
+      internalID: 4134547532470864303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo meain menu_17
+      rect:
+        serializedVersion: 2
+        x: 2935
+        y: 359
+        width: 410
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e35cf359c7bee700800000000000000
+      internalID: 571596278047986659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo meain menu_18
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 15
+        width: 1661
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3e67d0c5ad0c0d0800000000000000
+      internalID: -3404481229394353246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo meain menu_19
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 47
+        width: 390
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9763bfc9602292d80800000000000000
+      internalID: -8275045428517718407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo meain menu_20
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 162
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd28769b005f4b10800000000000000
+      internalID: 1967879572883516883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo meain menu_21
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 15
+        width: 399
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ffc136903329000800000000000000
+      internalID: 41151462010322825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo meain menu_22
+      rect:
+        serializedVersion: 2
+        x: 2767
+        y: 46
+        width: 563
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbed102e097a0c6a0800000000000000
+      internalID: -6430956027176165699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo meain menu_23
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 47
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b29dd89edc93bd0800000000000000
+      internalID: -2649860502739932355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      logo meain menu_0: 7797758495224881422
+      logo meain menu_1: 460199035590963125
+      logo meain menu_10: -7830826127446314915
+      logo meain menu_11: 97014149303736297
+      logo meain menu_12: -5596500610515503841
+      logo meain menu_13: -5228863114259586572
+      logo meain menu_14: 3994134489720356102
+      logo meain menu_15: 1415201556915473857
+      logo meain menu_16: 4134547532470864303
+      logo meain menu_17: 571596278047986659
+      logo meain menu_18: -3404481229394353246
+      logo meain menu_19: -8275045428517718407
+      logo meain menu_2: 618128644199663383
+      logo meain menu_20: 1967879572883516883
+      logo meain menu_21: 41151462010322825
+      logo meain menu_22: -6430956027176165699
+      logo meain menu_23: -2649860502739932355
+      logo meain menu_3: 3204875566729928804
+      logo meain menu_4: 8582702002291042392
+      logo meain menu_5: 4321059435000496319
+      logo meain menu_6: 7458134520942394729
+      logo meain menu_7: 6726012296302885943
+      logo meain menu_8: -1309625347364861592
+      logo meain menu_9: 7228188116493852823
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
